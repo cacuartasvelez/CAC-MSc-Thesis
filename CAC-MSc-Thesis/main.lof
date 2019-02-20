@@ -1,0 +1,146 @@
+\select@language {spanish}
+\gdef \the@ipfilectr {@-1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces Comparaci\IeC {\'o}n de la resoluci\IeC {\'o}n de distintas t\IeC {\'e}cnicas de imagen m\IeC {\'e}dica.}}{26}{figure.1.1}
+\contentsline {figure}{\numberline {1-2}{\ignorespaces Publicaciones de OCT por a\IeC {\~n}o.}}{30}{figure.1.2}
+\contentsline {figure}{\numberline {1-3}{\ignorespaces Mercado relacionado con OCT en los \IeC {\'u}ltimos a\IeC {\~n}os}}{31}{figure.1.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mercado estimado de la comercializaci\IeC {\'o}n de equipos de OCT.}}}{31}{figure.1.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Compa\IeC {\~n}\IeC {\'\i }as relacionadas con equipos de OCT.}}}{31}{figure.1.3}
+\contentsline {figure}{\numberline {1-4}{\ignorespaces Mapa de grupos de investigaci\IeC {\'o}n involucrados en OCT.}}{32}{figure.1.4}
+\contentsline {figure}{\numberline {1-5}{\ignorespaces Esquema de un sistema de OCT}}{33}{figure.1.5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces Esquema b\IeC {\'a}sico de interfer\IeC {\'o}metro para OCT}}{52}{figure.2.1}
+\contentsline {figure}{\numberline {2-2}{\ignorespaces L\IeC {\'\i }nea A medida con OCT en el dominio temporal}}{59}{figure.2.2}
+\contentsline {figure}{\numberline {2-3}{\ignorespaces L\IeC {\'\i }nea A obtenida en una medici\IeC {\'o}n de OCT en el dominio espectral}}{61}{figure.2.3}
+\contentsline {figure}{\numberline {2-4}{\ignorespaces Esquema del montaje.}}{68}{figure.2.4}
+\contentsline {figure}{\numberline {2-5}{\ignorespaces Espectro de la fuente empleada}}{69}{figure.2.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro de la fuente.}}}{69}{figure.2.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro de la fuente con filtro.}}}{69}{figure.2.5}
+\contentsline {figure}{\numberline {2-6}{\ignorespaces Fotograf\IeC {\'\i }a del montaje.}}{70}{figure.2.6}
+\contentsline {figure}{\numberline {2-7}{\ignorespaces Patr\IeC {\'o}n de interferencia con luz blanca}}{71}{figure.2.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Patr\IeC {\'o}n de interferencia con luz blanca.}}}{71}{figure.2.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Modulaci\IeC {\'o}n en el patr\IeC {\'o}n de interferencia con luz blanca.}}}{71}{figure.2.7}
+\contentsline {figure}{\numberline {2-8}{\ignorespaces L\IeC {\'\i }nea A medida experimentalmente}}{72}{figure.2.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {L\IeC {\'\i }nea A correspondiente al pixel central.}}}{72}{figure.2.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Envolvente de la l\IeC {\'\i }nea A.}}}{72}{figure.2.8}
+\contentsline {figure}{\numberline {2-9}{\ignorespaces Moneda empleada en las mediciones.}}{74}{figure.2.9}
+\contentsline {figure}{\numberline {2-10}{\ignorespaces Secuencia de im\IeC {\'a}genes capturadas por la c\IeC {\'a}mara.}}{75}{figure.2.10}
+\contentsline {figure}{\numberline {2-11}{\ignorespaces Comparaci\IeC {\'o}n de im\IeC {\'a}genes capturadas con la moneda}}{75}{figure.2.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen reconstruida a trav\IeC {\'e}s de OCT.}}}{75}{figure.2.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen directa capturada por la c\IeC {\'a}mara.}}}{75}{figure.2.11}
+\contentsline {figure}{\numberline {2-12}{\ignorespaces Imagen de la moneda obtenida mediante la suma de todas las profundidades.}}{76}{figure.2.12}
+\contentsline {figure}{\numberline {2-13}{\ignorespaces Secciones transversales de la moneda}}{77}{figure.2.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Plano $ZX$ o escaneo B obtenido con la topograf\IeC {\'\i }a de la moneda.}}}{77}{figure.2.13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano $ZY$ obtenido con la topograf\IeC {\'\i }a de la moneda.}}}{77}{figure.2.13}
+\contentsline {figure}{\numberline {2-14}{\ignorespaces Perspecivas de la topograf\IeC {\'\i }a de la moneda.}}{78}{figure.2.14}
+\contentsline {figure}{\numberline {2-15}{\ignorespaces Ala frontal o \emph {tegmen} de \emph {blattodea}.}}{78}{figure.2.15}
+\contentsline {figure}{\numberline {2-16}{\ignorespaces Imagen recuperada con OCT del ala de \textit {blattodea}.}}{79}{figure.2.16}
+\contentsline {figure}{\numberline {2-17}{\ignorespaces Planos de las secciones transversales del ala de \textit {blattodea}}}{81}{figure.2.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Plano $ZX$ o escaneo B obtenido para el \emph {tegmen}.}}}{81}{figure.2.17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Plano $ZY$ reconstruido para el \emph {tegmen}.}}}{81}{figure.2.17}
+\contentsline {figure}{\numberline {2-18}{\ignorespaces Perspectivas del ala de \textit {blattodea}.}}{82}{figure.2.18}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces Formaci\IeC {\'o}n del \textit {speckle} en OCT.}}{95}{figure.3.1}
+\contentsline {figure}{\numberline {3-2}{\ignorespaces Imagen de la retina afectada por ruido de \textit {speckle}}}{97}{figure.3.2}
+\contentsline {figure}{\numberline {3-3}{\ignorespaces Comparaci\IeC {\'o}n de ventanas en imagen natural.}}{100}{figure.3.3}
+\contentsline {figure}{\numberline {3-4}{\ignorespaces Direcci\IeC {\'o}n de escaneo de \textit {NL-Means}.}}{100}{figure.3.4}
+\contentsline {figure}{\numberline {3-5}{\ignorespaces Resultado del filtrado de una imagen proveniente de un sistema comercial de OCT para la retina}}{107}{figure.3.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen ruidosa.}}}{107}{figure.3.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen resultante del promedio de cuatro im\IeC {\'a}genes de la misma escena.}}}{107}{figure.3.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen filtrada con un filtro gaussiano de tama\IeC {\~n}o $(7x7)$.}}}{107}{figure.3.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Imagen filtrada mediante \textit {NL-Means} con PPB.}}}{107}{figure.3.5}
+\contentsline {figure}{\numberline {3-6}{\ignorespaces Representaci\IeC {\'o}n de im\IeC {\'a}genes en coeficientes de atenuaci\IeC {\'o}n}}{110}{figure.3.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen ruidosa representada en coeficiente de atenuaci\IeC {\'o}n.}}}{110}{figure.3.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen filtrada representada en coeficiente de atenuaci\IeC {\'o}n.}}}{110}{figure.3.6}
+\contentsline {figure}{\numberline {3-7}{\ignorespaces Generaci\IeC {\'o}n de dos im\IeC {\'a}genes a partir de un espectro}}{112}{figure.3.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro medido para una l\IeC {\'\i }nea A.}}}{112}{figure.3.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen obtenida del promedio de las dos subim\IeC {\'a}genes.}}}{112}{figure.3.7}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen proveniente de los dos espectros filtrada.}}}{112}{figure.3.7}
+\contentsline {figure}{\numberline {3-8}{\ignorespaces Modificaci\IeC {\'o}n de las ventanas de similaridad y b\IeC {\'u}squeda propuesta.}}{113}{figure.3.8}
+\contentsline {figure}{\numberline {3-9}{\ignorespaces Comparaciones del filtrado propuesto}}{115}{figure.3.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen ruidosa.}}}{115}{figure.3.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Filtrado con \textit {NL-Means} con PPB.}}}{115}{figure.3.9}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Filtrado propuesto en ZX.}}}{115}{figure.3.9}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Filtado propuesto en ZY.}}}{115}{figure.3.9}
+\contentsline {figure}{\numberline {3-10}{\ignorespaces Comparaci\IeC {\'o}n proyecciones \emph {en-face} filtradas}}{118}{figure.3.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Datos ruidosos.}}}{118}{figure.3.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Filtrado en ZX.}}}{118}{figure.3.10}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Filtrado en ZY.}}}{118}{figure.3.10}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Filtrado en 3D.}}}{118}{figure.3.10}
+\contentsline {figure}{\numberline {3-11}{\ignorespaces Secci\IeC {\'o}n transversal del cerebro de rat\IeC {\'o}n}}{121}{figure.3.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Regi\IeC {\'o}n de inter\IeC {\'e}s en la imagen ruidosa.}}}{121}{figure.3.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Regi\IeC {\'o}n de inter\IeC {\'e}s en la imagen filtrada.}}}{121}{figure.3.11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen ruidosa.}}}{121}{figure.3.11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Imagen filtrada.}}}{121}{figure.3.11}
+\contentsline {figure}{\numberline {3-12}{\ignorespaces Proyecciones \emph {en-face} del cerebro del rat\IeC {\'o}n}}{122}{figure.3.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Regi\IeC {\'o}n de la proyecci\IeC {\'o}n \emph {en-face} ruidosa.}}}{122}{figure.3.12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Regi\IeC {\'o}n de la proyecci\IeC {\'o}n \emph {en-face} filtrada.}}}{122}{figure.3.12}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Proyecci\IeC {\'o}n \emph {en-face} ruidosa.}}}{122}{figure.3.12}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Proyecci\IeC {\'o}n \emph {en-face} filtrada.}}}{122}{figure.3.12}
+\contentsline {figure}{\numberline {3-13}{\ignorespaces Im\IeC {\'a}genes del es\IeC {\'o}fago filtradas}}{124}{figure.3.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Imagen ruidosa en una regi\IeC {\'o}n de inter\IeC {\'e}s.}}}{124}{figure.3.13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Imagen filtrada en un regi\IeC {\'o}n de inter\IeC {\'e}s.}}}{124}{figure.3.13}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Imagen ruidosa.}}}{124}{figure.3.13}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Imagen filtrada.}}}{124}{figure.3.13}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces Simulaci\IeC {\'o}n de volumen de OCT}}{137}{figure.4.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Intensidad.}}}{137}{figure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fase normal.}}}{137}{figure.4.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fase corrupta.}}}{137}{figure.4.1}
+\contentsline {figure}{\numberline {4-2}{\ignorespaces Espectros de potencia con y sin corrupci\IeC {\'o}n}}{138}{figure.4.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PS para un plano $XY$.}}}{138}{figure.4.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PS para un plano $XY$ corrupto.}}}{138}{figure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS para un plano $XY$ con corrupci\IeC {\'o}n parcial.}}}{138}{figure.4.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Promedio de los PS limpias en $XY$.}}}{138}{figure.4.2}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Promedio de los PS corruptas en $XY$.}}}{138}{figure.4.2}
+\contentsline {figure}{\numberline {4-3}{\ignorespaces Espectros de potencia para una escala de corrupci\IeC {\'o}n aleatoria de $\pi $}}{148}{figure.4.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PS no corrupto $\zeta ^{\dagger }(k)$.}}}{148}{figure.4.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PS inicial.}}}{148}{figure.4.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS en la 2\IeC {\textdegree } iteraci\IeC {\'o}n.}}}{148}{figure.4.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PS en la 4\IeC {\textdegree } iteraci\IeC {\'o}n.}}}{148}{figure.4.3}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {PS final $\mathaccentV {hat}05E{\zeta }(k)$.}}}{148}{figure.4.3}
+\contentsline {figure}{\numberline {4-4}{\ignorespaces Fase recuperada para una escala de corrupci\IeC {\'o}n aleatoria de $\pi $}}{148}{figure.4.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fase no corrupta.}}}{148}{figure.4.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fase corrupta.}}}{148}{figure.4.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fase corregida.}}}{148}{figure.4.4}
+\contentsline {figure}{\numberline {4-5}{\ignorespaces Espectros de potencia para una escala de corrupci\IeC {\'o}n aleatoria de $2\pi $}}{149}{figure.4.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PS no corrupto.}}}{149}{figure.4.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PS corrupto.}}}{149}{figure.4.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS en 2\IeC {\textdegree } iteraci\IeC {\'o}n.}}}{149}{figure.4.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PS en 4\IeC {\textdegree } iteraci\IeC {\'o}n.}}}{149}{figure.4.5}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {PS final.}}}{149}{figure.4.5}
+\contentsline {figure}{\numberline {4-6}{\ignorespaces Fase recuperada para una escala de corrupci\IeC {\'o}n aleatoria de $2\pi $}}{149}{figure.4.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fase no corrupta.}}}{149}{figure.4.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fase corrupta.}}}{149}{figure.4.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fase corregida.}}}{149}{figure.4.6}
+\contentsline {figure}{\numberline {4-7}{\ignorespaces Funci\IeC {\'o}n de m\IeC {\'e}rito final a partir de escala de corrupci\IeC {\'o}n.}}{150}{figure.4.7}
+\contentsline {figure}{\numberline {4-8}{\ignorespaces Espectro de potencia obtenido en diferentes iteraciones del algoritmo de optimizaci\IeC {\'o}n}}{154}{figure.4.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PS no corrupto.}}}{154}{figure.4.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PS corrupto.}}}{154}{figure.4.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS semilla.}}}{154}{figure.4.8}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PS final.}}}{154}{figure.4.8}
+\contentsline {figure}{\numberline {4-9}{\ignorespaces Comparaci\IeC {\'o}n de la fase recuperada con la optimizaci\IeC {\'o}n}}{154}{figure.4.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fase no corrupta.}}}{154}{figure.4.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fase corrupta.}}}{154}{figure.4.9}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fase semilla.}}}{154}{figure.4.9}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Fase corregida.}}}{154}{figure.4.9}
+\contentsline {figure}{\numberline {4-10}{\ignorespaces Espectros de potencia con datos experimentales}}{156}{figure.4.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PS no corrupto.}}}{156}{figure.4.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PS corrupto.}}}{156}{figure.4.10}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS semilla.}}}{156}{figure.4.10}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PS final.}}}{156}{figure.4.10}
+\contentsline {figure}{\numberline {4-11}{\ignorespaces Comparaci\IeC {\'o}n de la fase recuperada con la optimizaci\IeC {\'o}n en datos experimentales}}{158}{figure.4.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Intensidad.}}}{158}{figure.4.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fase corrupta.}}}{158}{figure.4.11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fase en la semilla.}}}{158}{figure.4.11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Fase corregida.}}}{158}{figure.4.11}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\addvspace {10\p@ }
+\gdef \the@ipfilectr {}

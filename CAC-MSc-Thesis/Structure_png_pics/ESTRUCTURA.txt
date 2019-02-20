@@ -1,0 +1,39 @@
+Estructura para la tesis
+1) Introducción. Capítulo 1.
+	-> Cuento: Medicina -> problemas relacionados con microscopía y ultrasonido.
+	-> OCT [Resolución] -> Estado del arte aplicaciones de OCT en medicina -> 
+	-> Aplicaciones [Investigación (América Latina, Colombia)] -> Problemas y 
+		desarrollos actuales.
+	-> Planteamiento del problema
+	-> Objetivos
+	-> Estructura
+	
+2) Aspectos teóricos y prácticos de OCT
+	2.1. Estado del arte de OCT desde la física.
+	2.2. Implementación de un sistema de OCT de primera generación.
+				Incluir elementos relacionados con el speckle, desde lo general, hasta
+				el sistema que se implementó en el lab.
+				
+3) Supresión de ruido de speckle en imágenes de OCT
+	3.1. Principios básicos del speckle.
+	3.2. Características imágenes de OCT.
+				Relacionar con SAR, ¿Por qué filtrar?
+	3.3. Del filtrado en SAR a OCT
+		3.3.1. Algoritmos existentes, propuesto y empleado.
+		3.3.2. Reultados imágenes experimentales MGH.
+		3.3.3. Limitaciones, conclusiones y trabajo futuro.
+		
+4) Estabilización de la fase en OCT
+	4.1. ¿Cómo surge la corrupción en la fase?
+				¿Para qué y por qué corregirlar?
+	4.2. Desde el reenfoque en medios turbios hasta la fase en OCT
+	4.3. Algoritmo propuesto y resultados.
+		4.3.1. Algoritmo y resultados
+		4.3.2. Limitaciones, conclusiones y trabajo futuro.
+
+5) Conclusiones, perspectivas  y trabajo futuro
+
+6) Anexos
+	-> Imágenes de soporte.
+	-> Algoritmos.
+				

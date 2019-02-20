@@ -1,0 +1,32 @@
+\chapter{Conclusiones y trabajo futuro}
+\label{chapter:conclusiones}
+
+\section{Respecto a los objetivos específicos}
+
+En relación con los cinco objetivos planteados al comienzo del trabajo de grado, se desarrollaron cada uno de ellos de manera satisfactoria. Comenzando por los conceptos básicos adquiridos durante la elaboración del estado del arte y el entendimiento de una gran parte de los conceptos que se trabajan para obtener un tomograma en OCT. El estado del arte presentado es un compendio de información que se ha orientado al público genérico, sin conocimiento previo del tema. Para la profundización de los conceptos se dejan referencias bibliográficas de las diferentes áreas que abarca OCT.
+
+El entendimiento de estos conceptos se aplica en un sistema óptico diseñado y puesto en funcionamiento con los elementos disponibles en el laboratorio, siendo éstos de uso genérico y no especializados para OCT. Pese a las dificultades que hubo en el montaje, se logró recrear un sistema de OCT de campo completo en donde se analizaron los procedimientos básicos que se llevan a cabo en OCT. Este sistema de prueba cumple la función de vislumbrar los primeros pasos para la generación de un sistema a nivel clínico, con esto se da por culminado el segundo objetivo específico.
+
+Con la comprensión del funcionamiento de las diferentes modalidades de OCT y sus limitaciones se plantearon dos técnicas de posprocesamiento fundamentadas en los aspectos físicos que reúne OCT y que gracias a ello, les da versatilidad entre distintas aplicaciones. Estos dos aportes al posprocesamiento de datos en OCT, alcanzan lo esperado en el cuarto objetivo específico, referente a la aplicación de conceptos para encontrar problemas asociados a la fase medida en OCT.
+
+Para llevar a cabo las pruebas del algoritmo de optimización para encontrar la corrupción en la fase de un tomograma, fue necesaria la simulación de un volumen capturado mediante OCT. En adición a esto, fue necesario añadir elementos de corrupción de fase, que finalmente era lo que se esperaba reconstruir. Esta implementación en conjunto con las pruebas realizadas con el algoritmo de filtrado, obedecen a la meta planteada en el tercer objetivo, siendo éste básicamente la simulación de los datos de OCT.
+
+Por último, la validación de los algoritmo en datos provenientes de OCT aplicado a pacientes y en nuevas tecnologías de OCT muestran la utilidad de los métodos planteados, sopesados por resultados satisfactorios en las pruebas experimentales. Con esto, se cumple el último de los objetivos del trabajo de grado.
+
+\section{Sobre los resultados obtenidos y las propuestas}
+
+Con respecto a los resultados obtenidos, se plantean dos nuevos métodos de posprocesamiento para OCT, que buscan solventar problemas actuales mejorando los resultados obtenidos por otros autores hasta la fecha. Las técnicas en conjunto forman una estrategia robusta para el análisis de datos, de hecho, estos procedimientos ya tienen una aplicación conjunta y nueva para OCT, en donde se ha visto su alto potencial para resolver parte de los problemas que presentan las técnicas de imagen óptica y que actualmente se extienden gracias al desarrollo de nuevos procedimientos que permiten solucionar dichos problemas.
+
+\nlmeansOCT recoge los conceptos del \nlmeans tradicional, los modifica para hacerlos empleables en ruido por \speckle y adicionalmente, extiende las características del filtrado para considerar los datos de OCT de manera integral, siendo una combinación de los casos 2D y 3D planteados para el algoritmo. Entre las características más sobresalientes de \nlmeansOCT tenemos la influencia casi nula del movimiento al momento de captura de datos, así como su conservación de estructuras finas volumétricas. 
+
+El método de recuperación de la corrupción de fase por optimización, recoge los conceptos planteados hasta el momento por diversos autores para la corrección de este problema, y modela desde un punto de vista de la optimización el problema real que se tiene en la captura de datos para OCT. Con este modelo se extienden las propuestas actuales a una forma más robusta basada en el conocimiento de las características que tienen los datos de OCT.
+
+Finalmente, el sistema óptico implementado a nivel del laboratorio posibilita el inicio de actividades académicas en pro del envolvimiento de la comunidad científica colombiana en OCT. De hecho, en este mismo montaje ya se ha visto involucrado un estudiante a nivel de pregrado, que se espera continúe con parte del desarrollo de esta área.
+
+\section{Trabajo futuro}
+
+Como trabajo futuro se proponen modificaciones sobre el sistema experimental implementado en el laboratorio, buscando reemplazar la cámara empleada por un espectrómetro, que permita realizar medidas de OCT en el dominio frecuencial, en donde se ha visto que la técnica funciona mejor. Asimismo, el diseño de un sistema de desplazamiento que permita moverse más de $20\mu m$, rango máximo que permite el piezoeléctrico usado actualmente.
+
+Con relación a \nlmeansOCT se propone mejorar el código con la implementación computacional, ya que actualmente está realizado en MATLAB sin considerar posibles lenguajes optimizados para calcular información en paralelo, lo que reduciría notablemente el tiempo de computo.
+
+Con respecto a la optimización de la fase, se propone realizar más pruebas experimentales, con diferentes conjuntos de datos, ya que probablemente hayan ventajas o inconvenientes en su implementación que aun no se hayan distinguido.

@@ -1,0 +1,64 @@
+\BOOKMARK [0][-]{section*.1}{Licencia}{}% 1
+\BOOKMARK [0][-]{section*.2}{Agradecimientos}{}% 2
+\BOOKMARK [0][-]{section*.3}{Resumen}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{Contenido}{}% 4
+\BOOKMARK [0][-]{chapter*.5}{Lista de figuras}{}% 5
+\BOOKMARK [0][-]{chapter*.6}{Lista de acr\363nimos}{}% 6
+\BOOKMARK [0][-]{chapter.1}{1 Introducci\363n}{}% 7
+\BOOKMARK [1][-]{section.1.1}{1.1 Tomograf\355a \363ptica de coherencia y su papel en medicina}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.1}{1.1.1 Tomograf\355a \363ptica de coherencia \(OCT\)}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.2}{1.1.2 OCT en imagen m\351dica}{section.1.1}% 10
+\BOOKMARK [1][-]{section.1.2}{1.2 Aplicaciones de OCT}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.3}{1.3 La investigaci\363n en OCT y la participaci\363n de Am\351rica Latina}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.4}{1.4 Planteamiento del problema}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.5}{1.5 Objetivos}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.5.1}{1.5.1 Objetivo General}{section.1.5}% 15
+\BOOKMARK [2][-]{subsection.1.5.2}{1.5.2 Objetivos Espec\355ficos}{section.1.5}% 16
+\BOOKMARK [1][-]{section.1.6}{1.6 Estructura del documento, descripci\363n de los objetivos y resultados esperados}{chapter.1}% 17
+\BOOKMARK [0][-]{chapter*.7}{Referencias}{}% 18
+\BOOKMARK [0][-]{chapter.2}{2 Aspectos te\363ricos y pr\341cticos de OCT}{}% 19
+\BOOKMARK [1][-]{section.2.1}{2.1 Estado del arte de OCT}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.2}{2.2 Marco te\363rico}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Esquema de OCT}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Interferometr\355a de baja coherencia}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Interferometr\355a de baja coherencia en el dominio del tiempo}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Interferometr\355a de baja coherencia en el dominio de Fourier}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{2.3 Algunos par\341metros importantes en OCT}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Fuentes de iluminaci\363n}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Resoluci\363n axial y lateral}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Sensibilidad}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Relaci\363n se\361al ruido}{section.2.3}% 30
+\BOOKMARK [1][-]{section.2.4}{2.4 Implementaci\363n de un sistema de OCT a nivel del laboratorio}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Componentes y descripci\363n del montaje}{section.2.4}% 32
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Captura de los patrones de interferencia}{section.2.4}% 33
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Resultados obtenidos}{section.2.4}% 34
+\BOOKMARK [0][-]{chapter*.14}{Referencias}{}% 35
+\BOOKMARK [0][-]{chapter.3}{3 Supresi\363n del ruido por speckle en im\341genes de OCT}{}% 36
+\BOOKMARK [1][-]{section.3.1}{3.1 Principios b\341sicos de la estad\355sticas de speckle}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.2}{3.2 Estado del arte del filtrado de speckle en OCT}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.3}{3.3 Caracter\355sticas del speckle en OCT}{chapter.3}% 39
+\BOOKMARK [1][-]{section.3.4}{3.4 Del filtrado de speckle en SAR a OCT}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Principios del Non-Local Means}{section.3.4}% 41
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Implementaci\363n y resultados obtenidos con Non-Local Means con PPB}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Modificaci\363n sobre NL-Means propuesta \(NL-Means-OCT\)}{section.3.4}% 43
+\BOOKMARK [1][-]{section.3.5}{3.5 Resultados obtenidos y aplicaciones}{chapter.3}% 44
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 OCT en la retina}{section.3.5}% 45
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 OCT en tractograf\355a}{section.3.5}% 46
+\BOOKMARK [2][-]{subsection.3.5.3}{3.5.3 OCT gastrointestinal}{section.3.5}% 47
+\BOOKMARK [0][-]{chapter*.17}{Referencias}{}% 48
+\BOOKMARK [0][-]{chapter.4}{4 Estabilizaci\363n de la fase en OCT}{}% 49
+\BOOKMARK [1][-]{section.4.1}{4.1 OCT con fuente de barrido \(OFDI\)}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.2}{4.2 Sincronizaci\363n y estabilidad de fase en OFDI}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Caracter\355sticas de los tomogramas con corrupci\363n de fase}{section.4.2}% 52
+\BOOKMARK [1][-]{section.4.3}{4.3 Propuesta para la estabilizaci\363n de la fase por posprocesamiento}{chapter.4}% 53
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Enfocado de haces coherentes en medios turbios}{section.4.3}% 54
+\BOOKMARK [1][-]{section.4.4}{4.4 Algoritmo propuesto}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Metodolog\355a del algoritmo de optimizaci\363n de fase}{section.4.4}% 56
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Simulaciones}{section.4.4}% 57
+\BOOKMARK [2][-]{subsection.4.4.3}{4.4.3 Una semilla para el algoritmo}{section.4.4}% 58
+\BOOKMARK [1][-]{section.4.5}{4.5 Resultados experimentales preliminares}{chapter.4}% 59
+\BOOKMARK [0][-]{chapter*.18}{Referencias}{}% 60
+\BOOKMARK [0][-]{chapter.5}{5 Conclusiones y trabajo futuro}{}% 61
+\BOOKMARK [1][-]{section.5.1}{5.1 Respecto a los objetivos espec\355ficos}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.2}{5.2 Sobre los resultados obtenidos y las propuestas}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.3}{5.3 Trabajo futuro}{chapter.5}% 64

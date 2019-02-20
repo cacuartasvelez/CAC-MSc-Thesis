@@ -1,0 +1,479 @@
+\begin{thebibliography}{10}
+
+\bibitem{Guy2005}
+C.~Guy and D.~Ffytche.
+\newblock {\em An introduction to the principles of medical imaging (revised
+  edition)}.
+\newblock Imperial college press, 1976.
+
+\bibitem{Dhawan2008}
+A.~Dhawan, H.~Huang, and D.~Kim.
+\newblock {\em Principles and advanced methods in medical imaging and image
+  analysis}.
+\newblock World scientific publishing co, 2008.
+
+\bibitem{Beutel2009}
+M.~Sonka and J.~Fitzpatrick.
+\newblock {\em Handbook of medical imaging}, volume~2.
+\newblock SPIE press, 2009.
+
+\bibitem{Cierniak2011}
+R.~Cierniak.
+\newblock {\em X-Ray computed tomography in biomedical engineering}.
+\newblock Springer, 2011.
+
+\bibitem{Haacke1999}
+E.~Haacke, R.~Brown, M.~Thompson, and R.~Venkatesan.
+\newblock {\em Magnetic resonance imaging: physical principles and sequence
+  desing}.
+\newblock John Willey and Sons, 1999.
+
+\bibitem{Szabo}
+T.~Szabo.
+\newblock {\em Diagnostic Ultrasound Imaging: Inside Out}.
+\newblock Elsevier academicand Burlingtonand, 2004.
+
+\bibitem{Sharp2005}
+P.~Sharp, H.~Gemmell, and A.~Murray.
+\newblock {\em Practical nuclear medicine}.
+\newblock Springer, 3 edition, 2005.
+
+\bibitem{Drexler2015}
+W.~Drexler and J.~Fujimoto.
+\newblock {\em Optical Coherence Tomography: Technology and Applications}.
+\newblock Springer Reference, 2016.
+
+\bibitem{Tomlins}
+P.~H. Tomlins and R.~K. Wang.
+\newblock Theory and debelopments and applications of optical coherence
+  tomography.
+\newblock {\em J. Phys. D: Appl. Phys.}, \textbf{38}:2519--2535, 2005.
+
+\bibitem{Huang1991}
+D.~Huang, E.~A. Swanson, C.~P. Lin, J.~S. Schuman, W.~G. Stinson, W.~Chang,
+  M.~R. Hee, T.~Flotte, K.~Gregory, C.~Puliafito, and J.~G. Fujimoto.
+\newblock Optical coherence tomography.
+\newblock {\em Science}, \textbf{254}:1178--1181, 1991.
+
+\bibitem{Brezinski1996}
+M.E. Brezinski, G.J. Tearney, B.E. Bouma, J.A. Izatt, M.R. Hee, E.A. Swanson,
+  J.F. Southern, and J.G. Fujimoto.
+\newblock Optical coherence tomography for optical biopsy: Properties and
+  demonstration of vascular pathology.
+\newblock {\em Circulation}, \textbf{93}:1206–--1213, 1996.
+
+\bibitem{Hee1995_4}
+M.R. Hee, C.R. Baumal, C.A. Puliafito, J.S. Duker, E.~Reichel, J.R. Wilkins,
+  J.G. Coker, J.S. Schuman, E.A. Swanson, and J.G. Fujimoto.
+\newblock Optical coherence tomography of age-related macular degeneration and
+  choroidal neovascularization.
+\newblock {\em Ophthalmology}, \textbf{103}:1260–--1270, 1996.
+
+\bibitem{Tearney1997}
+G.J. Tearney, M.E. Brezinski, J.F. Southern, B.E. Bouma, S.A. Boppart, and J.G.
+  Fujimoto.
+\newblock Optical biopsy in human gastrointestinal tissue using optical
+  coherence tomography.
+\newblock {\em Am. J. Gastroenterol.}, \textbf{92}:1800--–1804, 1997.
+
+\bibitem{Tearney1996_2}
+G.J. Tearney, M.E. Brezinski, S.A. Boppart, B.E. Bouma, N.~Weissman, J.F.
+  Southern, E.A. Swanson, and J.G. Fujimoto.
+\newblock Catheter-based optical imaging of a human coronary artery.
+\newblock {\em Circulation}, \textbf{94}:3013, 1996.
+
+\bibitem{Pawley}
+J.~Pawley.
+\newblock {\em Handbook of Biological Confocal Microscopy}.
+\newblock Springer, 2006.
+
+\bibitem{Tearney1996}
+G.J. Tearney, S.A. Boppart, B.E. Bouma, M.E. Brezinski, N.J. Weissman, J.F.
+  Southern, and J.G. Fujimoto.
+\newblock Scanning single-mode fiber optic catheter-endoscope for optical
+  coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{21}:543–--545, 1996.
+
+\bibitem{Tearney1997_2}
+G.J. Tearney, M.E. Brezinski, B.E. Bouma, S.A. Boppart, C.~Pitvis, J.F.
+  Southern, and J.G. Fujimoto.
+\newblock In vivo endoscopic optical biopsy with optical coherence tomography.
+\newblock {\em Science}, \textbf{276}:2037–--2039, 1997.
+
+\bibitem{Fercher1993}
+A.~F. Fercher, C.~K. Hitzenberger, W.~Derxler, G.~Kamp, and H.~sattmann.
+\newblock \emph{In vivo} optical coherence tomography.
+\newblock {\em Am. J. Ophtalmol.}, \textbf{116}:113--114, 1993.
+
+\bibitem{Swanson1993}
+E.A. Swanson, J.~A. Izatt, M.~R. Hee, D.~Huang, C.~P. Lin, J.S. Schuman, C.~A.
+  Puliafito, and J.~G. Fujimoto.
+\newblock In vivo retinal imaging by optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{18}:1864--1866, 1993.
+
+\bibitem{Puliafito1995}
+C.A. Puliafito, M.R. Hee, C.P. Lin, E.~Reichel, J.S. Schuman, J.S. Duker, J.A.
+  Izatt, E.A. Swanson, and J.G. Fujimoto.
+\newblock Imaging of macular diseases with optical coherence tomography.
+\newblock {\em Ophthalmology}, \textbf{102}:217--–229, 1995.
+
+\bibitem{Hee1995_2}
+M.R. Hee, C.A. Puliafito, C.~Wong, J.S. Duker, E.~Reichel, J.S. Schuman, E.A.
+  Swanson, and J.G. Fujimoto.
+\newblock Optical coherence tomography of macular holes.
+\newblock {\em Ophthalmology}, \textbf{102}:748--–756, 1995.
+
+\bibitem{Hee1995}
+M.R. Hee, C.A. Puliafito, C.~Wong, J.S. Duker, E.~Reichel, B.~Rutledge, J.S.
+  Schuman, E.A. Swanson, and J.G. Fujimoto.
+\newblock Quantitative assessment of macular edema with optical coherence
+  tomography.
+\newblock {\em Arch. Ophthalmol.}, \textbf{113}:1019–--1029, 1195.
+
+\bibitem{Hee1995_3}
+M.R. Hee, C.A. Puliafito, C.~Wong, E.~Reichel, J.S. Duker, J.S. Schuman, E.A.
+  Swanson, and J.G. Fujimoto.
+\newblock Optical coherence tomography of central serous chorioretinopathy.
+\newblock {\em Am. J. Ophthalmol.}, \textbf{120}:65--74, 1995.
+
+\bibitem{Schuman1995}
+J.S. Schuman, M.R. Hee, A.V. Arya, T.~Pedut-Kloizman, C.A. Puliafito, J.G.
+  Fujimoto, and E.A. Swanson.
+\newblock Optical coherence tomography: a new tool for glaucoma diagnosis.
+\newblock {\em Curr. Opin. Ophthalmol.}, \textbf{6}:89–--95, 1995.
+
+\bibitem{Parsa1989}
+P.~Parsa, S.L. Jacques, and N.S. Nishioka.
+\newblock Optical properties of rat liver between 350 and 2200 nm.
+\newblock {\em Appl. Opt.}, \textbf{28}:2325--–2330, 1989.
+
+\bibitem{Izatt1996}
+J.A. Izatt, M.D. Kulkarni, H.-W. Wang, K.~Kobayashi, and M.V.~Sivak Jr.
+\newblock Optical coherence tomography and microscopy in gastrointestinal
+  tissues.
+\newblock {\em IEEE J. Sel. Top. Quantum Electron}, \textbf{2}:1017–--1028,
+  1996.
+
+\bibitem{Kobayashi1998}
+K.~Kobayashi, J.A. Izatt, M.D. Kulkarni, J.~Willis, and M.V.~Sivak Jr.
+\newblock High-resolution crosssectional imaging of the gastrointestinal tract
+  using optical coherence tomography: preliminary results.
+\newblock {\em Gastrointest. Endosc.}, \textbf{47}:515–--523, 1998.
+
+\bibitem{Pitris2000}
+C.~Pitris, C.~Jesser, S.A. Boppart, D.~Stamper, M.E. Brezinski, and J.G.
+  Fujimoto.
+\newblock Feasibility of optical coherence tomography for high-resolution
+  imaging of human gastrointestinal tract malignancies.
+\newblock {\em J. Gastroenterol.}, \textbf{35}:87–--92, 2000.
+
+\bibitem{Tearney1998}
+G.J. Tearney, M.E. Brezinski, J.F. Southern, B.E. Bouma, S.A. Boppart, and J.G.
+  Fujimoto.
+\newblock Optical biopsy in human pancreatobiliary tissue using optical
+  coherence tomography.
+\newblock {\em Dig. Dis. Sci.}, \textbf{43}:1193–--1199, 1998.
+
+\bibitem{Pitris1999}
+C.~Pitris, A.~Goodman, S.A. Boppart, J.J. Libus, J.G. Fujimoto, and M.E.
+  Brezinski.
+\newblock Highresolution imaging of gynecologic neoplasms using optical
+  coherence tomography.
+\newblock {\em Obstet. Gynecol.}, \textbf{93}:135–--139, 1999.
+
+\bibitem{Pitris1998}
+C.~Pitris, M.E. Brezinski, B.E. Bouma, G.J. Tearney, J.F. Southern, and J.G.
+  Fujimoto.
+\newblock High resolution imaging of the upper respiratory tract with optical
+  coherence tomography: a feasibility study.
+\newblock {\em Am. J. Respir. Crit. Care Med.}, \textbf{157}(5 pt
+  1):1640–--1644, 1998.
+
+\bibitem{Hee1998}
+M.R. Hee, C.A. Puliafito, J.S. Duker, E.~Reichel, J.G. Coker, J.R. Wilkins,
+  J.S. Schuman, E.A. Swanson, and J.G. Fujimoto.
+\newblock Topography of diabetic macular edema with optical coherence
+  tomography.
+\newblock {\em Ophthalmology}, \textbf{105}:360–--370, 1998.
+
+\bibitem{Schuman1996}
+J.S. Schuman, T.~Pedut-Kloizman, E.~Hertzmark, M.R. Hee, J.R. Wilkins, J.G.
+  Coker, C.A. Puliafito, J.G. Fujimoto, and E.A. Swanson.
+\newblock Reproducibility of nerve fiber layer thickness measurements using
+  optical coherence tomography.
+\newblock {\em Ophthalmology}, \textbf{103}:1889--–1898, 1996.
+
+\bibitem{Fujimoto1999}
+J.G. Fujimoto, S.A. Boppart, G.J. Tearney, B.E. Bouma, C.~Pitris, and M.E.
+  Brezinski.
+\newblock High resolution in vivo intra-arterial imaging with optical coherence
+  tomography.
+\newblock {\em Heart}, \textbf{82}:128--–133, 1999.
+
+\bibitem{Jang2001}
+I.K. Jang, G.~Tearney, and B.~Bouma.
+\newblock Visualization of tissue prolapse between coronary stent struts by
+  optical coherence tomography: comparison with intravascular ultrasound.
+\newblock {\em Circulation}, \textbf{104}:2754, 2001.
+
+\bibitem{Sergeev1997}
+A.M. Sergeev, V.M. Gelikonov, G.V. Gelikonov, F.I. Feldchtein, R.V. Kuranov,
+  N.D. Gladkova, N.M. Shakhova, L.B. Suopova, A.V. Shakhov, I.A. Kuznetzova,
+  A.N. Denisenko, V.V. Pochinko, Y.P. Chumakov, and O.S. Streltzova.
+\newblock In vivo endoscopic oct imaging of precancer and cancer states of
+  human mucosa.
+\newblock {\em Opt. Express}, \textbf{1}:432--–440, 1997.
+
+\bibitem{Feldchtein1998}
+F.I. Feldchtein, G.V. Gelikonov, V.M. Gelikonov, R.V. Kuranov, A.~Sergeev, N.D.
+  Gladkova, A.V. Shakhov, N.M. Shakova, L.B. Snopova, A.B.. Terent’eva, E.V.
+  Zagainova, Y.P. Chumakov, and I.A. Kuznetzova.
+\newblock Endoscopic applications of optical coherence tomography.
+\newblock {\em Opt. Express}, \textbf{3}:257, 1998.
+
+\bibitem{Bouma1999}
+B.E. Bouma and G.J. Tearney.
+\newblock Power-efficient nonreciprocal interferometer and linear-scanning
+  fiber-optic catheter for optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{24}:531--–533, 1999.
+
+\bibitem{Rollins1999}
+A.M. Rollins, A.~Chak, C.K. Wong, K.~Kobayashi, M.V. Sivak, R.~Ung-arunyawee,
+  and J.A. Izatt.
+\newblock Real-time in vivo imaging of gastrointestinal ultrastructure using
+  endoscopic optical coherence tomography with a novel efficient interferometer
+  design.
+\newblock {\em Opt. Lett.}, \textbf{24}:1358--–1360, 1999.
+
+\bibitem{Jackle2000}
+S.~Jackle, N.~Gladkova, F.~Feldchtein, A.~Terentieva, B.~Brand, G.~Gelikonov,
+  V.~Gelikonov, A.~Sergeev, A.~Fritscher-Ravens, J.~Freund, U.~Seitz,
+  S.~Soehendra, and N.~Schrodern.
+\newblock In vivo endoscopic optical coherence tomography of the human
+  gastrointestinal tract–toward optical biopsy.
+\newblock {\em Endoscopy}, \textbf{32}:743--–749, 2000.
+
+\bibitem{Jackle2000_2}
+S.~Jackle, N.~Gladkova, F.~Feldchtein, A.~Terentieva, B.~Brand, G.~Gelikonov,
+  V.~Gelikonov, A.~Sergeev, A.~Fritscher-Ravens, J.~Freund, U.~Seitz,
+  S.~Schroder, and N.~Soehendra.
+\newblock In vivo endoscopic optical coherence tomography of esophagitis and
+  barrett’s esophagus and and adenocarcinoma of the esophagus.
+\newblock {\em Endoscopy}, \textbf{32}:750--–755, 2000.
+
+\bibitem{Sivak2000}
+M.V.~Sivak Jr., K.~Kobayashi, J.A. Izatt, A.M. Rollins, R.~Ung-Runyawee,
+  A.~Chak, R.C. Wong, G.A. Isenberg, and J.~Willis.
+\newblock High-resolution endoscopic imaging of the gi tract using optical
+  coherence tomography.
+\newblock {\em Gastrointest. Endosc.}, \textbf{51}(4 pt 1):474--479, 2000.
+
+\bibitem{Grube2002}
+E.~Grube, U.~Gerckens, L.~Buellesfeld, and P.J. Fitzgerald.
+\newblock Intracoronary imaging with optical coherence tomography: a new
+  high-resolution technology providing striking visualization in the coronary
+  artery.
+\newblock {\em Circulation}, \textbf{106}:2409–--2410, 2002.
+
+\bibitem{Jang2002}
+I.K. Jang, B.E. Bouma, D.H. Kang, S.J. Park, S.W. Park, K.B. Seung, K.B. Choi,
+  M.~Shishkov, K.~Schlendorf, E.~Pomerantsev, S.L. Houser, H.T. Aretz, and G.J.
+  Tearney.
+\newblock Visualization of coronary atherosclerotic plaques in patients using
+  optical coherence tomography: comparison with intravascular ultrasound.
+\newblock {\em J. Am. Coll. Cardiol.}, \textbf{39}:604--609, 2002.
+
+\bibitem{Bouma2003}
+B.E. Bouma, G.J. Tearney, H.~Yabushita, M.~Shishkov, C.R. Kauffman, D.~DeJoseph
+  Gauthier, B.D. MacNeill, S.L. Houser, H.T. Aretz, E.F. Halpern, and I.K.
+  Jang.
+\newblock Evaluation of intracoronary stenting by intravascular optical
+  coherence tomography.
+\newblock {\em Heart}, \textbf{89}:317--–320, 2003.
+
+\bibitem{Chen2009}
+Y.~Chen, A.D. Aguirre, L.~Ruvinskaya, A.~Devor, D.A. Boas, and J.G. Fujimoto.
+\newblock Optical coherence tomography (oct) reveals depth-resolved dynamics
+  during functional brain activation.
+\newblock {\em J. Neurosci. Methods}, \textbf{178}:162--173, 2009.
+
+\bibitem{Srinivasan2009}
+V.J. Srinivasan, S.~Sakas, I.~Gorczynska, S.~Ruvinskaya, W.~Wu, J.G. Fujimoto,
+  and D.A. Boas.
+\newblock Depth-resolved microscopy of cortical hemodynamics with optical
+  coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{34}:3086--–3088, 2009.
+
+\bibitem{Lee2011}
+J.~Lee, V.~Srinivasan, H.~Radhakrishnan, and D.A. Boas.
+\newblock Motion correction for phase-resolved dynamic optical coherence
+  tomography imaging of rodent cerebral cortex.
+\newblock {\em Opt. Express}, \textbf{19}:21258–--21270, 2011.
+
+\bibitem{Li2012}
+P.~Li, X.~Yin, L.~Shi, S.~Rugonyi, and R.~Wang.
+\newblock In vivo functional imaging of blood flow and wall strain rate in
+  outflow tract of embryonic chick heart using ultrafast spectral domain
+  optical coherence tomography.
+\newblock {\em J. Biomed. Opt.}, \textbf{17}(9):096006, 2012.
+
+\bibitem{Gu2012}
+S.~Gu, M.~Jenkins, L.~Peterson, Y.~Doughman, M.~Rollins, and M.~Watanabe.
+\newblock Optical coherence tomography captures rapid hemodynamic responses to
+  acute hypoxia in the cardiovascular system of early embryos.
+\newblock {\em Dev. Dyn}, \textbf{241}(3):534–--544, 2012.
+
+\bibitem{Yazdanfar1997}
+S.~Yazdanfar, M.~Kulkarni, and J.~Izatt.
+\newblock High resolution imaging of in vivo cardiac dynamics using color
+  doppler optical coherence tomography.
+\newblock {\em Opt. Express}, \textbf{1}(13):424--431, 1997.
+
+\bibitem{Welzel1998}
+J.~Welzel, E.~Lankenau, R.~Birngruber, and R.~Engelhardt.
+\newblock Optical coherence tomography of the human skin.
+\newblock {\em Curr. Probl. Dermatol.}, \textbf{26}:27–--37, 1998.
+
+\bibitem{Gambichler2007}
+T.~Gambichler, P.~Regeniter, F.~Bechara, A.~Orlikov, R.~Vasa, G.~Moussa,
+  M.~Stucker, P.~Altmeyer, and K.~Hoffmann.
+\newblock Characterization of benign and malignant melanocytic skin lesions
+  using optical coherence tomography in vivo.
+\newblock {\em J. Am. Acad. Dermatol.}, \textbf{57}(4):629--637, 2007.
+
+\bibitem{Blatter2012}
+C.~Blatter, J.~Weingast, A.~Alex, B.~Grajciar, W.~Wieser, W.~Drexler, R.~Huber,
+  and R.~Leitgeb.
+\newblock In situ structural and microangiographic assessment of human skin
+  lesions with high-speed oct.
+\newblock {\em Biomed. Opt. Exp}, \textbf{3}(10):2636–--2646, 2012.
+
+\bibitem{Otis2004}
+L.~Otis, Y.~Chen, and Q.~Zhu.
+\newblock Characterization of dentin by optical coherence tomography.
+\newblock {\em J. Dent. Res.}, \textbf{82}(A):3979, 2004.
+
+\bibitem{Melo2005}
+L.S. de~Melo, R.E. de~Araujo, A.Z. Freitas, D.~Zezell, N.D. Vieira, J.~Girkin,
+  A.~Hall, M.T. Carvalho, and A.S. Gomes.
+\newblock Evaluation of enamel dental restoration interface by optical
+  coherence tomography.
+\newblock {\em J. Biomed. Opt.}, \textbf{10}(6):64027, 2005.
+
+\bibitem{Bakhsh2011}
+T.A. Bakhsh, A.~Sadr, Y.~Shimada, J.~Tagami, and Y.~Sumi.
+\newblock Non-invasive quantification of resin-dentin interfacial gaps using
+  optical coherence tomography: validation against confocal microscopy.
+\newblock {\em Dent. Mater.}, \textbf{27}(9):915--925, 2011.
+
+\bibitem{Fujimoto2016}
+J.~Fujimoto and E.~Swanson.
+\newblock The development, commercialization, and impact of optical coherence
+  tomography.
+\newblock {\em Invest. Ophthalmol. Vis. Sci.}, \textbf{57}:OCT1--OCT13, 2016.
+
+\bibitem{Zara2003}
+J.~Zara, S.~Yazdanfar, K.~Rao, J.~Izatt, and S.~Smith.
+\newblock Electrostatic micromachine scaning mirror for optical coherence
+  tomography.
+\newblock {\em Opt. Lett.}, \textbf{28}(8):628--630, 2003.
+
+\bibitem{Jung2006}
+w.~Jung, D.~McCormick, J.~Zhang, L.~Wang, N.~Tien, and Z.~Chen.
+\newblock Three-dimensional endoscopic optical coherence tomography by use of a
+  two-axis microelectromechanical scanning mirror.
+\newblock {\em Applied physics Letters}, \textbf{88}:163901, 2006.
+
+\bibitem{Aguirre2007}
+A.~Aguirre, Y.~Chen P.~Herz, J.~Fujimoto, L.~Fan W.~Piyawattanametha, , and
+  M.~Wu.
+\newblock Two-axis mems scanning catheter for ultrahigh resolution
+  three-dimensional and en face imaging.
+\newblock {\em Optics Express}, \textbf{15}(5):2445--2453, 2007.
+
+\bibitem{xie2004}
+J.G. Xie and J.~Wei.
+\newblock Tracking assisted optical coherence tomography, April~27 2004.
+\newblock US Patent 6,726,325.
+
+\bibitem{Strathman2014}
+M.~Strathman, Y.~Liu, E.~Keeler, M.~Song, U.~Baran, J.~Xi, Ming-Ting Sun,
+  R.~wang, X.~Li, and L.~Lin.
+\newblock Mems scaning micromirror for optical coherence tomography.
+\newblock {\em Biomedical Optics Express}, \textbf{9}(1):211--224, 2014.
+
+\bibitem{Yun2004}
+S.~Yun, G.~Tearney, and B.~Bouma.
+\newblock Motion artifacts in optical coherence tomography with
+  frequency-domain ranging.
+\newblock {\em Opt. Express}, \textbf{12}(13):2977--2998, 2004.
+
+\bibitem{Pierce2005}
+M.~Pierce, M.~Shishkov, B.~Hyle, N.~Nassif, B.~Bouma, and G.~Tearney.
+\newblock Effects of sample arm motion in endoscopic polarization-sensitive
+  optical coherence tomography.
+\newblock {\em Opt. Express}, \textbf{13}(15):5739--5749, 2005.
+
+\bibitem{Chen1999}
+Z.~Chen, Z.~Yonghua, S.~Srinivas, J.~Nelson, N.Prakash, and R.~Frostig.
+\newblock Optical doppler tomoraphy.
+\newblock {\em IEEE J. Sel. Top. Quantum Electron.}, \textbf{5}:1134--1142,
+  1999.
+
+\bibitem{Wang2010}
+R.~Wang.
+\newblock Optical microangiography: a label-free 3-d imaging technology to
+  visualize and quantify blood circulations within tissue beds in vivo.
+\newblock {\em IEEE J. Sel. Top. Quantum Electron.}, \textbf{16}:1257--1259,
+  2010.
+
+\bibitem{Ruikang2007}
+R.~Wang, S.~Kirkpatrick, and Monica Hinds.
+\newblock Phase-sensitive optical coherence elastography for mapping tissue
+  microstranins in real time.
+\newblock {\em Applied Physics Letters}, \textbf{90}:164105, 2007.
+
+\bibitem{Oldenburg2005}
+A.~Oldenburg, F.~Jean-Jacques, K.~Suslick, A.~Wei, and S.~Boppart.
+\newblock Magnetomotive contrast for \emph{in vivo} optical coherence
+  tomoraphy.
+\newblock {\em Optics Express}, \textbf{13}(17):6597--6614, 2005.
+
+\bibitem{Schmitt1999}
+J.~Schmitt, S.~Xiang, and K.~Yung.
+\newblock Speckle in optical coherence tomography.
+\newblock {\em Journal of Biomedical Optics}, \textbf{4}:95--105, 1999.
+
+\bibitem{Mariampillai2008}
+A.~Mariampillai, B.~Standish, E.~Moriyama, M.~Khurana, N.~Munce, M.~Leung,
+  J.~Jiang, A.~Cable, B.~Wilson, I.~Vitkin, and V.~Yang.
+\newblock Speckle variance detection of microvasculature using swept-source
+  optical coherence tomography.
+\newblock {\em Optics Letters}, \textbf{33}(13):1530--1532, 2008.
+
+\bibitem{Hughes2009}
+M.~Hughes, M.~Spring, and A.~Podoleanu.
+\newblock Speckle noise reduction in optical coherence tomography of paint
+  layers.
+\newblock {\em Applied Optics}, \textbf{49}(1):99--107, 2010.
+
+\bibitem{Szkulmowski2012}
+M.~Szkulmowski, I.~Gorczynska, D.~Szlag, M.~Sylwestrzak, A.~Kowalczyk, and
+  M.~Wojtkowski.
+\newblock Efficient reduction of speckle noise in optical coherence tomography.
+\newblock {\em Optics express}, \textbf{20}(2):1337--1359, 2012.
+
+\bibitem{Aum2015}
+J.~Aum, J.~Kim, and J.~Jeong.
+\newblock Effective speckle noise suppression in optical coherence tomography
+  images using nonlocal means denoising filter with double gaussian anisotropic
+  kernels.
+\newblock {\em Applied Optics}, \textbf{54}(13):D43--D50, 2015.
+
+\bibitem{Fang2012}
+L.~fang, S.~Li, Q.~Nie, J.~Izatt, C.~Toth, and S.~Farsiu.
+\newblock Sparsity based denoising of spectral domain optical coherence
+  tomography images.
+\newblock {\em Biomedical Optics Express}, \textbf{3}(5):927--942, 2012.
+
+\end{thebibliography}

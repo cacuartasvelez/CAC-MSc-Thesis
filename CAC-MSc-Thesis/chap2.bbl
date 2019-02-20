@@ -1,0 +1,186 @@
+\begin{thebibliography}{10}
+
+\bibitem{Duguay1971}
+M.~Duguay and A.~Mattick.
+\newblock Ultrahigh speed photography of picosecond light pulses and echoes.
+\newblock {\em Applied Optics}, \textbf{10}:2162--2170, 1971.
+
+\bibitem{Fercher1988}
+K.~Mengedoht A.~Fercher and W.~Werner.
+\newblock Eye-lenght measurement by interferometry with partially coherent
+  light.
+\newblock {\em Optics Letters}, \textbf{13}(3):186--188, 1988.
+
+\bibitem{Tomlins}
+P.~H. Tomlins and R.~K. Wang.
+\newblock Theory and debelopments and applications of optical coherence
+  tomography.
+\newblock {\em J. Phys. D: Appl. Phys.}, \textbf{38}:2519--2535, 2005.
+
+\bibitem{Fercher}
+A.~Fercher, W.~Drexler, C.~Hitzenberger, and T.~Lasser.
+\newblock Optical coherence tomography - principles and applications.
+\newblock {\em J. Phys. D.: Rep. Prog. Phys.}, \textbf{66}:239--303, 2003.
+
+\bibitem{Drexler2015}
+W.~Drexler and J.~Fujimoto.
+\newblock {\em Optical Coherence Tomography: Technology and Applications}.
+\newblock Springer Reference, 2016.
+
+\bibitem{Huang1991_2}
+D.~Huang, J.~Wang, C.~Lin, C.~Puliafito, and J.~Fujimoto.
+\newblock Micron-resolution ranging of cornea and anterior chamber by optical
+  coherence reflectometry.
+\newblock {\em Lasers Surg. Med.}, \textbf{11}:419--425, 1991.
+
+\bibitem{Fercher1996}
+A.~Fercher.
+\newblock Optical coherence tomography.
+\newblock {\em Journal of biomedical optics}, \textbf{1}(2):157--173, 1996.
+
+\bibitem{Schmitt1999_2}
+J.~Schmitt.
+\newblock Optical coherence tomography (oct): A review.
+\newblock {\em IEEE Journal of selected topics in quantum electroncs},
+  \textbf{5}(4):1205--1215, 1999.
+
+\bibitem{Wojtkowski2002}
+M.~Wojtkowski, R.~Leigeb, A.~Kowalczyk, T.~Bajraszewski, and A.~Fercher.
+\newblock \emph{In-vivo} human retinal imaging by fourier domain optical
+  coherence tomography.
+\newblock {\em Journal of biomedical optics}, \textbf{7}(3):457--463, 2002.
+
+\bibitem{Leitgeb2003}
+R.~Leitgeb, C.~Hitzenberger, and A.~Fercher.
+\newblock Performance of fourier domain vs. time domain optical coherence
+  tomography.
+\newblock {\em Opt. Express}, \textbf{11}:889--894, 2003.
+
+\bibitem{Wojtkowski2004}
+M.~Wojtkowski, V.~Srinivasan, T.~Ko, J.~Fujimoto, A.~Kowalczyk, and J.~Duker.
+\newblock Ultrahigh resolution, high speed, fourier domain optical coherence
+  tomgraphy and methods for dispersion compensation.
+\newblock {\em Opt. Express}, \textbf{12}:2435--2447, 2004.
+
+\bibitem{Nassif2004}
+N.~Nassif, B.~Cense, B.~Park, S.~Yun, T.~Chen, B.~Bouma, G.~Tearney, and
+  J.~de~Boer.
+\newblock \emph{In-vivo} human retinal imaging by ultrahigh-speed spectral
+  domain optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{29}:480--482, 2004.
+
+\bibitem{Yun2003}
+S.~Yun, G.~Tearney, B.~Bouma, B.~Park, and J.~Boer.
+\newblock High-speed spectral-domain optical coherence tomography at $1.3\mu m$
+  wavelength.
+\newblock {\em Opt. Express}, \textbf{11}:3598--3604, 2003.
+
+\bibitem{Choma2003}
+M.~Choma, M.~Sarunic, C.~Yang, and J.~Izatt.
+\newblock Sensitivity advantage of swept-source and fourier domain optical
+  coherence tomography.
+\newblock {\em Opt. Express}, \textbf{11}:2183--2189, 2003.
+
+\bibitem{Brezinski2005}
+M.~Brezinski.
+\newblock {\em Optical coherence tomography: Principles and applications}.
+\newblock Academic Press, 2006.
+
+\bibitem{Ho2006}
+Jung-Taek Oh and Beop-Min Kim.
+\newblock Artifact removal in complex frequency domain optical coherence
+  tomography with iterative least-squares phase shifting algorithm.
+\newblock {\em Applied Optics}, \textbf{45}(17):4157--4164, 2006.
+
+\bibitem{Vergnole2008}
+S.~Vergnole, G.~Lamouche, and M.~Dufour.
+\newblock Artifact removal in fourier-domain optical coherence tomography with
+  a piezoelectric fiber stretcher.
+\newblock {\em Optics Letters}, \textbf{33}(7):732--734, 2008.
+
+\bibitem{Fercher2003}
+A.~Fercher, W.~Drexler, C.~Hizenberger, and T.~Lasser.
+\newblock Optical coherence tomoraphy - principles and applications.
+\newblock {\em Rep. Prog. Phys.}, \textbf{66}(66):239--303, 2003.
+
+\bibitem{Parsa1989}
+P.~Parsa, S.L. Jacques, and N.S. Nishioka.
+\newblock Optical properties of rat liver between 350 and 2200 nm.
+\newblock {\em Appl. Opt.}, \textbf{28}:2325--–2330, 1989.
+
+\bibitem{Brezinski1996}
+M.E. Brezinski, G.J. Tearney, B.E. Bouma, J.A. Izatt, M.R. Hee, E.A. Swanson,
+  J.F. Southern, and J.G. Fujimoto.
+\newblock Optical coherence tomography for optical biopsy: Properties and
+  demonstration of vascular pathology.
+\newblock {\em Circulation}, \textbf{93}:1206–--1213, 1996.
+
+\bibitem{Born1983}
+M.~Born and E.~Wolf.
+\newblock {\em Principles of optics: Electromagnetic theory of propagation,
+  interference and diffraction of light}.
+\newblock Pergamon Press, 5 edition, 1975.
+
+\bibitem{Hecht2000}
+E.~Hecht.
+\newblock {\em \'Optica}.
+\newblock Adison Wesley, 3 edition, 2000.
+
+\bibitem{Jansz2012}
+P.~Jansz, S.~Richardson, G.~Wild, and S.~Hinckley.
+\newblock Modeling of low coherence interferometry using broadband
+  multi-gaussian light sources.
+\newblock {\em Photonic sensors}, \textbf{2}(3):247--258, 2012.
+
+\bibitem{Ko2004}
+T.~Ko, D.~Adler, J.~Fujimoto, D.~Mamedov, V.~Prokhorov, V.~Shidlovski, and
+  S.~Yakubovich.
+\newblock Ultrahigh resolution optical coherence tomography imaging with a
+  broadband superluminescent diode light source.
+\newblock {\em Opt. Express}, \textbf{12}(10):2112--2119, 2004.
+
+\bibitem{Drexler1999}
+W.~Drexler, U.~Morgner, F.~Kärtner, C.~Pritis, S.~Boppart, X.~Li, E.~Ippen,
+  and J.~Fujimoto.
+\newblock \emph{In-vivo} ultrahigh-resolution optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{24}(17):1221--1223, 1999.
+
+\bibitem{Beaurepaire1998}
+E.~Beaurepaire, A.~Boccara, M.~Lebec, L.~Blanchot, and H.~Saint-Jalmes.
+\newblock Full-field optical coherence microscopy.
+\newblock {\em Opt. Lett.}, \textbf{23}(4):244--246, 1998.
+
+\bibitem{Rollins1999_2}
+A.~Rollins and J.~Izatt.
+\newblock Optimal interferometer designs for optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{24}(21):1484--1486, 1999.
+
+\bibitem{Bouma2002}
+B.~Bouma, , and G.~Tearney.
+\newblock {\em Handbook of optical coherence tomography}.
+\newblock Marcel Dekker, 2002.
+
+\bibitem{Chang2008}
+S.~Chang, S.~Sherif, Y.~Mao, and C.~Flueraru.
+\newblock Large area full-field optical coherence tomography and its
+  applications.
+\newblock {\em The Open Optics Journal}, \textbf{2}:10--20, 2008.
+
+\bibitem{Molly2012}
+H.~Molly.
+\newblock Full-field and single-shot full-field optical coherence tomography: A
+  novel technique for biomedical imaging applications.
+\newblock {\em Advances in Optical Technologies}, \textbf{2012}:1--27, 2012.
+
+\bibitem{Malacara1992}
+D.~Malacara.
+\newblock {\em Optical Shop Testing}.
+\newblock John Wiley \& Sons, 2 edition, 1992.
+
+\bibitem{Wang2004}
+Z.~Wang and B.~Han.
+\newblock Advanced iterative algorithm for phase extraction of randomly
+  phase-shifted interferograms.
+\newblock {\em Opt. Lett.}, \textbf{29}(14):1671--1673, 2004.
+
+\end{thebibliography}

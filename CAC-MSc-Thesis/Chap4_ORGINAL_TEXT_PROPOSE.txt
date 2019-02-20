@@ -1,0 +1,62 @@
+Sea $S_n(k)$ el conjunto de $N$ espectros capturado por un sistema de OFDI que se encuentra influenciado por falta de sincronía entre la fuente de barrido y el detector, de forma que $S_1(k)$ es el primer espectro capturado que es la referencia global para los siguientes espectros $S_2(k), S_3(k),\ldots,S_N(k)$. Sea $F_n(z)$ la transformada de Fourier del espectro $S_n(k)$, y por ende el tomograma en el dominio espacial formado por $N$ líneas A. Debido a la influencia de la sincronía en la captura de los espectros, el tomograma sin corrupción $F^{\ast}_n(z)$ y su espectro $S^{\ast}_n(k)$ son completamente desconocidos, pero el tomograma sin corrupción se relaciona con el corrupto por la presencia de un \offset $\varphi_n$ y una pendiente $\xi_n$ aleatoria para cada línea A, de forma que el modelo que sigue el tomograma corrupto es
+
+\begin{equation}
+\label{eq:f_n}
+F_n(z) = F_n^{\ast}(z)e^{i2\pi z\frac{\xi_n}{M}}e^{i2\pi \varphi_n},
+%F_n(z) = F_n^{\ast}(z)e^{i2\pi \left[\varphi_n + \frac{\xi_n}{M}z\right]},
+\end{equation}
+
+\noindent donde $i$ es la unidad imaginaria y $M$ es la cantidad de muestras de cada espectro. Como la pendiente que se introduce puede tener un valor cualquiera, su rango será $0\leq\xi_n<\infty$, mientras que el \offset es una característica cíclica que indica el momento de inicio de adquisición, por ende se define en el intervalo $0\leq\varphi_n<1$. En la Eq.~\ref{eq:f_n} el aporte de la pendiente $\xi_n$ está relacionado con la dependencia de la fase con la profundidad, por ello se encuentra relacionado con $z$, por el contrario, el \offset $\phi_n$ es un valor constante, que produce un desfase de la línea A. Nótese que la amplitud de los tomogramas relacionados en la Eq.~\ref{eq:f_n} no se ve influenciada por la presencia del \offset o la pendiente, ya que estos valores son complejos, la amplitud es entonces la misma para el caso con y sin corrupción. Ahora bien, el problema se encuentra en determinar $\xi_n$ y $\phi_n$ para cada una de las líneas A del tomograma, exceptuando la primera $n=1$ que es la referencia global.
+
+Como no conocemos los datos sin corrupción, realizamos una estimación $\hat{F}_n(z)$ que representa a $F^{\ast}_n(z)$ $\left[F^{\ast}(z) \triangleq \hat{F}_n(z)\right]$ a partir del tomograma corrupto $F_n(z)$ por medio de la siguiente relación,
+
+%\begin{equation}
+%F^{\ast}(z) \triangleq \hat{F}_n(z)
+%\end{equation}
+
+
+\begin{equation}
+\hat{F}_n(z) = t_n(z) F_n(z),
+\end{equation}
+
+\noindent donde el parámetro $t_n$ corresponde al inverso de la corrupción que posee la línea A, así
+
+\begin{equation}
+t_n(z) = e^{-i2\pi z \frac{\hat{\xi}_n}{M}}e^{-i2\pi \hat{\varphi}_n}.
+\end{equation}
+
+\noindent Nuestro objetivo es calcular la pendiente $\hat{\xi}_n$ y el \offset $\hat{\varphi}_n$ a partir de los datos del tomograma corrupto, sabiendo que al calcular las transformadas de Fourier ($\mathscr{F}_{xy}$) sobre los planos $XY$, el patrón gaussiano que se obtiene debe conservar las características del haz con el cual se iluminó la muestra, esto es
+
+\begin{equation}
+\zeta^{\ast}_m(k) = \mathscr{F}_{xy} \left\{F^{\ast}(z)\right\},
+\end{equation}
+
+\noindent y por tanto el promedio $\zeta^{\ast}(k)$ de todas las PSF en $XY$ en las $M$ muestras de $k$, se define como
+
+\begin{equation}
+\zeta^{\ast}(k) = \Sigma_m \zeta^{\ast}_m(k),
+\end{equation}
+
+\noindent se espera que en un tomograma no corrupto, la PSF promedio sea como la mostrada en la Fig.~\ref{subfig:psf_clean_mean} y que por tanto, si los parámetros $\hat{\xi}_n$ y $\hat{\varphi}_n$ son la corrupción de fase, esta sea la PSF que se obtenga. Sin embargo, en la vida real no se conoce $F^{\ast}(z)$ ni $\zeta^{\ast}(k)$, pero se sabe que la PSF sigue la distribución espectral de la fuente, así como su tamaño y características, por lo tanto, esta puede precalcularse suponiendo que la muestra no posee frecuencias altas como una función gaussiana en general. Por tanto, 
+$\zeta^{\dagger}(k)$ define la PSF que debe tener el sistema como una función gaussiana cuando no hay corrupción, en base a $\zeta^{\ast}(k)$ como
+
+\begin{equation}
+\zeta^{\dagger}(k) \triangleq \zeta^{\ast}(k).
+\end{equation}
+
+Si se toma la transformada de Fourier para cada plano $XY$ en donde se ha estimado $\hat{\xi}_n$ y $\hat{\varphi}_n$ es posible obtener la PSF promedio estimada desde la corrupta $\hat{\zeta}_m(k)$ y el promedio para todas las $M$ muestras $\hat{\zeta}(k)$ como
+
+\begin{align}
+\hat{\zeta}_m(k) = &\mathscr{F}_{xy}\big\{\hat{F}_n(z)\big\} \notag\\
+\Rightarrow \hat{\zeta}(k) = &\Sigma_m \hat{\zeta}_m(k).
+\end{align}
+
+\noindent Si los parámetros $\hat{\xi}_n$ y $\hat{\varphi}_n$ son la pendiente y el \offset que corrompen el volumen, entonces la PSF promedio estimada $\hat{\zeta}(k)$ debe ser igual a aquella generada con el tomograma limpio $\zeta^{\dagger}(k)$, este problema puede plantearse como una optimización a través de un funcional $L(\hat{\xi}_n,\hat{\varphi}_n)$ que relaciona las PSF a partir del \offset y la pendiente estimados con la PSF real del sistema, de la siguiente manera
+
+\begin{equation}
+\label{eq:L}
+\min \left[L(\hat{\xi}_n,\hat{\varphi}_n)\right] = {\big\lvert \zeta^{\dagger}(k) - \hat{\zeta}(k)\big\rvert^2}.
+\end{equation}
+
+\noindent El funcional de la Eq.~\ref{eq:L} podría resolverse por métodos de optimización heurísticos, tales como el \textit{nelder mead}, sin embargo, debido a que hay dos variables independientes por cada línea A, el tiempo de procesamiento, el consumo de memoria y la cantidad de iteraciones del algoritmo harían el cálculo tedioso. En lugar de esto, la propuesta es resolver este problema con un esquema similar al planteado por Vellekoop \cite{Vallekoop2007}, en donde se optimizará de manera secuencial cada una de las líneas A, calculando los cambios en el funcional cuando se evalúa la función en una estimación del \offset y la pendiente.
+

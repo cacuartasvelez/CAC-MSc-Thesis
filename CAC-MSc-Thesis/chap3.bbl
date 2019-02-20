@@ -1,0 +1,263 @@
+\begin{thebibliography}{10}
+
+\bibitem{Goodman2010}
+J.~Goodman.
+\newblock {\em Speckle phenomena in optics: Theory and applications}.
+\newblock H. W. Freeman, 2010.
+
+\bibitem{Dainty1975}
+J.~Dainty.
+\newblock {\em Laser speckle and related phenomena}.
+\newblock Springer, 2 edition, 1975.
+
+\bibitem{Goodman1976}
+J.~Goodman.
+\newblock Some fundamental properties of speckle.
+\newblock {\em J. Opt. Am}, \textbf{66}(11):1145--1150, 1976.
+
+\bibitem{Deledalle2015}
+C.~Deledalle, L.~Denis, F.~Tupin, A.~Reigber, and M.~Jäger.
+\newblock Nl-sar: A unified nonlocal framework for resolution-preserving
+  (pol)(in)sar denoising.
+\newblock {\em IEEE transactions on geoscience and remote sensing},
+  \textbf{53}(4):2021--2038, 2015.
+
+\bibitem{Kalaivani2009}
+S.~Kalaivani and R.~Wahidabanu.
+\newblock A view on despeckling in ultrasound imaging.
+\newblock {\em International journal of signal processing: image processing and
+  pattern recognition}, \textbf{2}(3):85--98, 2009.
+
+\bibitem{Sidky2008}
+E.~Sidky and X.~Pan.
+\newblock Image reconstruction in circular cone-beam computed tomography by
+  constrained, total-variation minimization.
+\newblock {\em Phys. Med. Biol}, \textbf{53}:4777--4807, 2008.
+
+\bibitem{Pizurica2006}
+A.~Pizurica, A.~Wink, E.~Vansteenkiste, W.~Philips, and J.~Roerdink.
+\newblock A review of wavelet denoising in mri and ultrasound brain imaging.
+\newblock {\em Current medical imaging reviews}, \textbf{2}(2):247--260, 2006.
+
+\bibitem{Schmitt1999}
+J.~Schmitt, S.~Xiang, and K.~Yung.
+\newblock Speckle in optical coherence tomography.
+\newblock {\em Journal of Biomedical Optics}, \textbf{4}(1):95--105, 1999.
+
+\bibitem{Lee1994}
+J.~Lee and I.~Jurkevich.
+\newblock Speckle filtering of synthetic apertura radar images: a review.
+\newblock {\em Remote sensing reviews}, \textbf{28}:313--340, 1994.
+
+\bibitem{Lu2011}
+K.~Lu, N.~He, and L.~Li.
+\newblock Nonlocal means-based denoising for medical images.
+\newblock {\em Hindawi Publishing Corporation}, \textbf{2012}(438617):1--7,
+  2011.
+
+\bibitem{Adler2004}
+D.~Adler, T.~Ko, and J.~Fujimoto.
+\newblock Speckle reduction in optical coherence tomography images by use of a
+  spatially adaptive wavelet filter.
+\newblock {\em Optics Letters}, \textbf{29}(24):2878--2880, 2004.
+
+\bibitem{Mayer2012}
+M.~Mayer, A.~Borsdorf, M.~Wagner, J.~Hornegger, C.~Mardin, and R.~Tornow.
+\newblock Wavelet denoising of multiframe optical coherence tomography data.
+\newblock {\em Biomedical Optics Express}, \textbf{3}(3):572--589, 2012.
+
+\bibitem{Fang2012}
+L.~Fang, S.~Li, Q.~Nie, J.~Izatt, C.~Toth, and S.~Farsiu.
+\newblock Sparsity based denoising of spectral domain optical coherence
+  tomography images.
+\newblock {\em Optics Express}, \textbf{3}(5):927--942, 2012.
+
+\bibitem{Yu2016}
+H.~Yu, J.~Gao, and A.~Li.
+\newblock Probability-based non-local means filter for speckle noise
+  suppression in optical coherence tomography images.
+\newblock {\em Optics Letters}, \textbf{41}(5):994--997, 2016.
+
+\bibitem{Jian2009}
+Z.~Jian, Z.~Yu, L.~Yu, B.~Rao, Z.~Chen, and B.~Tromberg.
+\newblock Speckle attenuation in optical coherence tomography by curvelet
+  shrinkage.
+\newblock {\em Optics Letters}, \textbf{34}(10):1516--1518, 2009.
+
+\bibitem{Xu2013}
+J.~Xu, H.~Ou, E.~Lam, P.~Chui, and K.~Wong.
+\newblock Speckle reduction of retinal optical coherence tomography based on
+  contourlet shrinkage.
+\newblock {\em Optics Letters}, \textbf{38}(15):2900--2903, 2013.
+
+\bibitem{Xu2012}
+D.~Xu, N.~Vaswani, Y.~Huang, and J.~Kang.
+\newblock Modified compressive sensing optical coherence tomography with noise
+  reduction.
+\newblock {\em Optics Letters}, \textbf{37}(20):4209--4211, 2012.
+
+\bibitem{Fang2013}
+L.~Fang, S.~Li, R.~McNabb, Q.~Nie, A.~Kuo, C.~Toth, J.~Izatt, and S.~Farsiu.
+\newblock Fast acquisition and reconstruction of optical coherence tomography
+  images via sparse representation.
+\newblock {\em IEEE transactions on medical imaging},
+  \textbf{32}(11):2034--2049, 2013.
+
+\bibitem{Fang2015}
+L.~Fang, S.~Li, X.~Kang, J.~Izatt, and S.~Farsiu.
+\newblock 3-d adaptive sparsity based image compression with applications to
+  optical coherence tomography.
+\newblock {\em IEEE transactions on medical imaging},
+  \textbf{34}(6):1306--1320, 2015.
+
+\bibitem{Cheng2012}
+K.~Cheng, E.~Lam, B.~Standish, and V.~Yang.
+\newblock Speckle reduction of endovascular optical coherence tomography ysung
+  a generalized divergence measure.
+\newblock {\em Optics Letters}, \textbf{37}(14):2871--2873, 2012.
+
+\bibitem{Baudes2005}
+A.~Baudes, B.~Coll, and J.~Morel.
+\newblock A review of image denoising algorithms, with a new one.
+\newblock {\em Multiscale modeling and simulation}, \textbf{4}(2):490--530,
+  2005.
+
+\bibitem{Deledalle2009}
+C.~Deledalle, L.~Denis, and F.~Tupin.
+\newblock Iterative weighted maximum likelihood denoising with probabilistic
+  patch-based weights.
+\newblock {\em IEEE Transactions on Image Processing},
+  \textbf{18}(12):2661--2672, 2009.
+
+\bibitem{Bashkansky2000}
+M.~Bashkansky and J.~Reintjes.
+\newblock Statistics and reduction of speckle in optical coherence tomography.
+\newblock {\em Opt. Lett.}, \textbf{25}(8):545--547, 1999.
+
+\bibitem{Oliver2004}
+C.~Oliver and S.~Quegan.
+\newblock {\em Understanding Synthetic Aperture Radar Images}.
+\newblock Scitech publishing, 2004.
+
+\bibitem{Moreira2013}
+A.~Moreira, P.~Prats-Iraola, M.~Younis, G.~Krieger, I.~Hajnsel, and
+  K.~Papathanassiou.
+\newblock A tutorial on synthetic aperture radar.
+\newblock {\em IEEE geoscience and remote sensing magazine}, \textbf{13}:6--43,
+  March 2013.
+
+\bibitem{Novak1990}
+L.~Novak and M.~Burl.
+\newblock Optimal speckle reduction in polarimetric sar imagery.
+\newblock {\em International journal of remote sensing},
+  \textbf{26}(2):293--305, 1990.
+
+\bibitem{Lopes2010}
+A.~Lopes, E.~Nezry, R.~Touzi, and H.~Laur.
+\newblock Structure detection and statistical adaptive speckle filtering in sar
+  images.
+\newblock {\em International journal of remote sensing},
+  \textbf{14}(9):1735--1758, 2010.
+
+\bibitem{Lucas2014}
+A.~Lucas, O.~Aharonson, C.~Deledalle, A.~Hayes, R.~Kirk, and
+  E.~Howington-Kraus.
+\newblock Insights into titan's geology and hydrology based on enhanced image
+  processing of cassini radar data.
+\newblock {\em Geophys. Res. Planets}, \textbf{119}:2149--2166, 2014.
+
+\bibitem{Mairal2009}
+J.~Mairal, F.~Bach, J.~Ponce, and G.~Sapiro.
+\newblock Non-local sparse models for image restoration.
+\newblock {\em Computer vision, 2009 IEEE 12th International Conference on},
+  \textbf{2009}:1--8, 2009.
+
+\bibitem{Mahmoudi2005}
+M.~Mahmoudi and G.~Sapiro.
+\newblock Fast image and video denoising via nonlocal means of similar
+  neighborhoods.
+\newblock {\em IEEE signal processing letters}, \textbf{12}(12):839--542, 2005.
+
+\bibitem{Kervrann2007}
+C.~Kervrann, J.~Boulanger, and P.~Coupé.
+\newblock Bayesian non-local means filter, image redundancy and adaptive
+  dictionaries for noise removal.
+\newblock {\em Scale space and variation methods in computer vision},
+  \textbf{4485}:520--532, 2007.
+
+\bibitem{Liu2008}
+Y.~Liu, J.~Wang, X.~Chen, Y.~Guo, and Q.~Peng.
+\newblock A robust and fast non local means algorithm for image denoising.
+\newblock {\em Journal of computer science and technology},
+  \textbf{23}(2):270--279, 2008.
+
+\bibitem{Coupe2008}
+P.~Coupé, P.~Yger, S.~Prima, P.~Hellier, C.~Kervrann, and C.~Barillot.
+\newblock An optimized blockwise nonlocal means denoising filter for 3-d
+  magnetic resonance images.
+\newblock {\em IEEE Transactions on medical imaging}, \textbf{27}(4):425--441,
+  2008.
+
+\bibitem{Polzehl2006}
+J.~Polzehl and V.~Spokoiny.
+\newblock Prpagation-separation approach for local likelihood estimation.
+\newblock {\em Probab. theory related fields}, \textbf{135}(3):335--362, 2006.
+
+\bibitem{Zhang2014}
+X.~Zhand, G.~Hou, J.~Ma, W.~Yang, B.~Lin, Y.~Xu, W.~Chen, and Y.~Feng.
+\newblock Denoising mr images using non-local means filter with combined patch
+  and pixel similarity.
+\newblock {\em PLoS ONE}, \textbf{9}(6):1--12, 2014.
+
+\bibitem{Vermeer2013}
+K.~Vermeer, J.~Mo, J.~Weda, H.~Lemij, and J.~de~Boer.
+\newblock Depth-resolved model-based reconstruction of attenuation coefficients
+  in optical coherence tomography.
+\newblock {\em Biomedical Optics Express}, \textbf{5}(1):322--337, 2013.
+
+\bibitem{Liang2016}
+K.~Liand, O.~Ahsen, H.~Lee, Z.~Wang, B.~Potsaid, M.~Figueiredo, V.~Jayaraman,
+  A.~Cable, Q.~Huand, H.~Mashimo, and J.~Fujimoto.
+\newblock Volumetric mapping of barrett's esophagus and dysplacia with
+  \textit{en-face} optical coherence tomography tethered capsule.
+\newblock {\em Am. J. Gastroenterol.}, \textbf{111}(11):1664--1666, 2016.
+
+\bibitem{Uribe2015}
+N.~Uribe-Patarroyo and B.~Bouma.
+\newblock Rotational distortion correction in endoscopic optical coherence
+  tomography based on speckle decorrelation.
+\newblock {\em Optics Letters}, \textbf{40}(23):5518--5521, 2015.
+
+\bibitem{Kraus2012}
+M.~Kraus, B.~Potsaid, M.~Mayer, R.~Bock, B.~Baumann, J.~Liu, J.~Hornegger, and
+  J.~Fujimoto.
+\newblock Motion correction in optical coherence tomography volumes on a per
+  a-scan basis using orthogonal scan patterns.
+\newblock {\em Biomedical Optics Express}, \textbf{3}(6):1182--1199, 2012.
+
+\bibitem{Basser2000}
+P.~Basser, S.~Pajevi, C.~Pierpaoli, J.~Duda, and A.~Aldroui.
+\newblock In vivo fiber tractography using dt-mri data.
+\newblock {\em Magnetic resonance in medicine}, \textbf{44}:625--632, 2000.
+
+\bibitem{Chung2013}
+K.~Chung, J.~Wallace, S.~Kim, S.~Kalyanasundaram, A.~Andalman, T.~Davidson,
+  J.~Mirzabekov, K.~Zalacusky, J.~Mattis, A.~Denisin, S.~Pak, H.~Bernstein,
+  C.~Ramakrishnan, L.~Grosenick, V.~Gradinaru, and K.~Deisseroth.
+\newblock Structural and molecular interrogration of intact biological systems.
+\newblock {\em Nature}, \textbf{497}:332--339, 2013.
+
+\bibitem{Ku2016}
+T.~Ku, J.~Swaney, J.~Park, A.~Albanese, E.~Murray, J.~Cho, Y.~Park, V.~Mangena,
+  J.~Chen, and K.~Chung.
+\newblock Multiplexed and scalable super-resolution imaging of
+  three-dimensional protein localization in size-adjustable tissues.
+\newblock {\em Nature Biotechnology}, \textbf{34}:973--981, 2016.
+
+\bibitem{Chang2017}
+J.~Chang, F.~Chen, Y.~Yoon, E.~Juand, H.~Babcock, J.~Kand, S.~Asano, H.~Suk,
+  N.~Pak, P.~Tillberg, A.~Wassie, D.~Cai, and E.~Boyden.
+\newblock Iterative expansion microscopy.
+\newblock {\em Nature Methods}, \textbf{2017}:1--7, 2017.
+
+\end{thebibliography}

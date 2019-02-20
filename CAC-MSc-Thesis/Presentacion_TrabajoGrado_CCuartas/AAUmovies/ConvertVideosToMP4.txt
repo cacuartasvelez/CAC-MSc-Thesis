@@ -1,0 +1,4 @@
+ffmpeg -i INPUT_VIDEO.avi -vcodec mpeg4 -b:v 1200k -flags +aic+mv4 -filter:v "setpts=2*PTS" -strict -2 OUTPUT_VIDEO.mp4
+
+
+"atempo=2.0" -filter:v "setpts=2*PTS"

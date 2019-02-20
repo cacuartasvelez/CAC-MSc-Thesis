@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Planteamiento del problema}{9}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objetivos}{10}{0}{1}
+\beamer@sectionintoc {2}{Aspectos teóricos y prácticos de OCT}{16}{0}{2}
+\beamer@subsectionintoc {2}{1}{Marco teórico}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Implementación de un sistema de OCT a nivel del laboratorio}{24}{0}{2}
+\beamer@sectionintoc {3}{Supresión del ruido por \emph {speckle} en imágenes de OCT}{40}{0}{3}
+\beamer@subsectionintoc {3}{1}{Formación y características del \emph {speckle} en OCT}{42}{0}{3}
+\beamer@subsectionintoc {3}{2}{Propuesta de filtrado \emph {NL- Means-OCT}}{50}{0}{3}
+\beamer@subsectionintoc {3}{3}{Resultados obtenidos y aplicaciones}{52}{0}{3}
+\beamer@sectionintoc {4}{Estabilización de la fase en OCT}{65}{0}{4}
+\beamer@subsectionintoc {4}{1}{OCT con fuente de barrido (OFDI)}{66}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sincronización y estabilidad de fase en OFDI}{68}{0}{4}
+\beamer@subsectionintoc {4}{3}{Algoritmo propuesto}{75}{0}{4}
+\beamer@subsectionintoc {4}{4}{Resultados experimentales preliminares}{87}{0}{4}
+\beamer@sectionintoc {5}{Conclusiones}{92}{0}{5}

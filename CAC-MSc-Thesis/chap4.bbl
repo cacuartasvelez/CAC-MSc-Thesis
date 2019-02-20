@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{Golubovic1997}
+B.~Golubovic, B.~Bouma, G.~Tearney, and J.~Fujimoto.
+\newblock Optical frequency-domain reflectometry using rapid wavelenght tuning
+  of a cr4+:fosterite laser.
+\newblock {\em Opt. Lett}, \textbf{22}:1704--1706, 1997.
+
+\bibitem{Chinn1997}
+S.~Chinn, E.~Swanson, and J.~Fujimoto.
+\newblock Optical coherence tomography using a frequency-tunable optical
+  source.
+\newblock {\em Opt. Lett}, \textbf{22}:340--342, 1997.
+
+\bibitem{Drexler2015}
+W.~Drexler and J.~Fujimoto.
+\newblock {\em Optical Coherence Tomography: Technology and Applications}.
+\newblock Springer Reference, 2016.
+
+\bibitem{Vakoc2005}
+B.~Vakoc, S.~Yun, J.~de~Boer, G.~Tearney, and B.~Bouma.
+\newblock Phase-resolved optical frequency domain imaging.
+\newblock {\em Optics Express}, \textbf{13}(14):5483--5493, 2005.
+
+\bibitem{Leitgeb2003}
+R.~Leitgeb, C.~Hitzenberger, and A.~Fercher.
+\newblock Performance of fourier domain vs. time domain optical coherence
+  tomography.
+\newblock {\em Optics Express}, \textbf{11}:889--894, 2003.
+
+\bibitem{Choma2003}
+M.~Choma, M.~Sarunic, C.~Yang, and J.~Izatt.
+\newblock Sensitivity advantage of swept source and fourier domain optical
+  coherence tomography.
+\newblock {\em Optics Express}, \textbf{11}:2183--2189, 2003.
+
+\bibitem{Zhao2000}
+Y.~Zhao, Z.~Chen, C.~Saxer, S.~Xiang, J.~de~Boer, and S.~Nelson.
+\newblock Phase-resolved optical coherence tomography and optical doppler
+  tomography for imaging blood flow in human skin with fast scanning speed and
+  high velocity sensitivity.
+\newblock {\em Optics Letters}, \textbf{25}(2):114--116, 2000.
+
+\bibitem{Brinkmeyer1990}
+E.~Brinkmeyer and R.~Ulrich.
+\newblock High-resolution ocdr in dipersive wave-guides.
+\newblock {\em Electron. Lett.}, \textbf{26}:413--414, 1990.
+
+\bibitem{Choi2013}
+W.~Choi, B.~Potsaid, V.~Jayaraman, B.~Baumann, I.~Grulkowski, J.~Liu, C.~Lu,
+  A.~Cable, D.~Huang, J.~Duker, and J.~Fujimoto.
+\newblock Phase-sensitive swept-source optical coherence tomography imaging of
+  the human retina with a vertical cavity surface-emiting laser light source.
+\newblock {\em Optics Letters}, \textbf{38}(3):338--340, 2013.
+
+\bibitem{Hong2012}
+Y.~Hong, S.~Makita, F.~Jaillon, M.~Ju, E.~Min, B.~Lee, M.~Itoh, M.~Miura, and
+  Y.~Yasuno.
+\newblock High-penetration swept source doppler optical coherence angiography
+  by fully numerical phase stabilization.
+\newblock {\em Optics Express}, \textbf{20}(3):2740--2760, 2012.
+
+\bibitem{Liu2015}
+G.~Liu, O.~Tan, S.~Gao, D.~Pechauer, B.~Lee, C.~Lu, J.~Fujimoto, and D.~Huang.
+\newblock Postprocessing algorithms to minimize fixed-pattern artifact and
+  reduce trigger jitter in swept source optical coherence tomography.
+\newblock {\em Optics Express}, \textbf{23}(8):9824--9834, 2015.
+
+\bibitem{Bonesi2014}
+M.~Boneasi, M.~Minneman, Ensher J, B.~Zabihian, H.~Sarttmann, P.~Boschert,
+  E.~Hoover, R.~Leitgeb, M.~Crawford, and W.~Drexler.
+\newblock Akinetic all-semiconductor programmable swept-source at $1550nm$ and
+  $1310nm$ with centimeters coherence lenght.
+\newblock {\em Optics Express}, \textbf{22}(3):2632--2655, 2015.
+
+\bibitem{Adler2007}
+D.~Adler, R.~Huber, and J.~Fujimoto.
+\newblock Phase-sensitive optical coherence tomography at up to $370000$ lines
+  per second using buffered fourier domain mode-locked lasers.
+\newblock {\em Optics Letters}, \textbf{32}(6):626--628, 2007.
+
+\bibitem{Vallekoop2007}
+I.~Vellekoop and P.~Mosk.
+\newblock Focusing coherent light through opaque strongly scattering media.
+\newblock {\em Optics Letters}, \textbf{32}(16):2309--2311, 2007.
+
+\bibitem{Cui2011}
+M.~Cui.
+\newblock Parallel wavefront optimization method for focusing light through
+  random scattering media.
+\newblock {\em Optics Letters}, \textbf{36}(6):870--872, 201.
+
+\bibitem{Chen2009}
+Y.~Chen, A.D. Aguirre, L.~Ruvinskaya, A.~Devor, D.A. Boas, and J.G. Fujimoto.
+\newblock Optical coherence tomography (oct) reveals depth-resolved dynamics
+  during functional brain activation.
+\newblock {\em J. Neurosci. Methods}, \textbf{178}:162--173, 2009.
+
+\end{thebibliography}
